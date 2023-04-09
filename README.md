@@ -10,3 +10,5 @@ V1.0.2: https://github.com/SwaixYT/Blood-Ores-N-Armor/releases/download/3Release
 V1.0.3: https://github.com/SwaixYT/Blood-Ores-N-Armor/releases/download/4Release/BONA.V1.0.3.FORGE.jar
 
 V1.0.4: https://github.com/SwaixYT/Blood-Ores-N-Armor/releases/download/5Release/BONA.V1.0.4.FORGE.jar
+
+V1.0.5: https://github.com/SwaixYT/Blood-Ores-N-Armor/releases/download/6Release/BONA.V1.0.5.FORGE.jar
