@@ -1,6 +1,5 @@
 # Blood-Ores-N-Armor
-Mod updates
-Releases:
+Quick Download Links:
 
 V1.0.0: https://github.com/SwaixYT/Blood-Ores-N-Armor/releases/download/1Release/BONA.V1.0.0.FORGE.jar
 
